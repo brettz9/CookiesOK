@@ -4,7 +4,7 @@
 CookiesOK is a browser extension which aims to automatically click the accept button on Cookie Consent Notices.
 
 ## Installation
-CookiesOK is available from the Chrome web store [here] (https://chrome.google.com/webstore/detail/cookiesok/afmkbjoakcacgljcdccofbffloabfbni), Opera add-ons [here] (https://addons.opera.com/en/extensions/details/cookiesok/) and Mozilla Add-ons [here] (https://addons.mozilla.org/nl/firefox/addon/cookiesok/)
+CookiesOK is available from Opera add-ons [here] (https://addons.opera.com/en/extensions/details/cookiesok/) and Mozilla Add-ons [here] (https://addons.mozilla.org/nl/firefox/addon/cookiesok/)
 
 To manually install CookiesOK download all files to your computer and use your webbrowser to load it from your local machine.
 This process is similiar, differs slightly, among different webbrowsers.
